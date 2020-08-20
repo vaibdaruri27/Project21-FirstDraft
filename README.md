@@ -1,2 +1,2 @@
-# Project21-FirstDraft
-Bullets And Walls game
+# p5.play-boilerplate
+Boiler plate for p5.play
